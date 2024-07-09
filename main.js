@@ -54,8 +54,7 @@ function searchTasks() {
 
     })
 
-//include print statements or alerts in the function line by line
-//Before I see Iyanu- fix it before end of day Monday, fix it and send Prof an email.
+
 
 
 
